@@ -154,7 +154,7 @@ body {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: transparent;
+    background: white;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -163,7 +163,7 @@ body {
 
 .logo {
     font-size: 35px;
-    color: #78de5f;
+    color: lightblue;
     text-decoration: none;
     font-weight: 700;
 }
@@ -171,7 +171,7 @@ body {
 .navbar a{
 position: relative;
 font-size: 18px;
-color: #000000;
+color: black;
 font-weight: 500;
 text-decoration: none;
 margin-left: 40px;
